@@ -23,11 +23,7 @@ namespace bytebank_ADM.Funcionarios
             //Console.WriteLine("Criando um funcionário.");
         }
 
-        public abstract void AumentarSalario();
-
-       
-
-
+        public abstract void AumentarSalario();       
 
     }
 }
